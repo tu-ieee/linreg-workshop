@@ -33,6 +33,10 @@ CostError = ndarray
 LEARNING_RATE = 0.01
 ITERATIONS = 1000
 
+# Initialize your model weights. It can be 1s, 0s or random numbers
+# Make sure the dimensions match your features and target
+# theta = ...
+
 # Load Dataset. We will do it for you for now
 # If you want to know the code, ask us for more info
 try:
