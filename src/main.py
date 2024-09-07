@@ -27,6 +27,9 @@ ModelWeights = ndarray
 CostError = ndarray
 
 # Set hyperparameter constants
+# Be sure to tweak these to see what works best!
+# Later when you use established frameworks and libraries, this is what
+# you mainly do
 LEARNING_RATE = 0.01
 ITERATIONS = 1000
 
